@@ -1,2 +1,2 @@
 # Cache-Simulator
-Simulador de memória cache em Python que avalia políticas de mapeamento e substituição (Random, FIFO e LRU), calculando taxas de acerto e diferentes tipos de faltas (misses) a partir de arquivos binários de endereços.
+Python memory cache simulator that evaluates mapping and replacement policies (Random, FIFO, and LRU), calculating hit rates and different types of misses from binary address files.
